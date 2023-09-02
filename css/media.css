@@ -1,0 +1,160 @@
+
+
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {  }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {  }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {  }
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+  /* nav */
+.navbar {
+	background: #fff;
+    position: relative;
+   
+}
+.navbar-nav .nav-item .nav-link{
+    color: #191919;
+ 
+ }
+.navbar-nav .nav-item .nav-link:hover{
+    color:#DA1C4B;
+ 
+ }
+/* banar part  */
+.banar_overly {
+	padding: 31px 0 30px;
+	
+}
+.banar_text h5 {
+	font-size: 21px;
+	
+}
+.banar_text h1 {
+	font-size: 34px;
+}
+
+.cotetion_part{
+    text-align: center;
+}
+.banar_bellow_text{
+    text-align: center;
+}
+
+/* event part  */
+
+#event_part {
+	padding: 40px 0;
+}
+.upcomming_header h2 {
+	font-size: 24px;
+}
+
+.upcomming_event_left img {
+	width: 280px;
+	box-shadow: 10px 10px 0 1px rgba(0,0,0,.07);
+	border-radius: 5px;
+}
+
+.upcomming_towr_1stchild{
+    padding-bottom: 10px;
+}
+.upcomming_towr_2nphoto img {
+	
+	padding-right: 10px;
+}
+.upcomming_towr_3nphoto img {
+	
+	padding-right: 10px;
+}
+#upcomming_tour_part {
+	padding: 40px 0;
+}  
+}
+
+
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (min-width:320px) and (max-width: 575.98px) { 
+    
+/* nav */
+.navbar {
+	background: #fff;
+    position: relative;
+   
+}
+.navbar-nav .nav-item .nav-link{
+    color: #191919;
+ 
+ }
+.navbar-nav .nav-item .nav-link:hover{
+    color:#DA1C4B;
+ 
+ }
+/* banar part  */
+.banar_overly {
+	padding: 31px 0 30px;
+	
+}
+.banar_text h5 {
+	font-size: 21px;
+	
+}
+.banar_text h1 {
+	font-size: 34px;
+}
+
+.cotetion_part{
+    text-align: center;
+}
+.banar_bellow_text{
+    text-align: center;
+}
+
+/* event part  */
+
+#event_part {
+	padding: 40px 0;
+}
+.upcomming_header h2 {
+	font-size: 24px;
+}
+
+.upcomming_event_left img {
+	width: 280px;
+	box-shadow: 10px 10px 0 1px rgba(0,0,0,.07);
+	border-radius: 5px;
+}
+
+.upcomming_towr_1stchild{
+    padding-bottom: 10px;
+}
+.upcomming_towr_2nphoto img {
+	
+	padding-right: 10px;
+}
+.upcomming_towr_3nphoto img {
+	
+	padding-right: 10px;
+}
+#upcomming_tour_part {
+	padding: 40px 0;
+}
+
+ }
+
+
+/* mobile end  */
+ 
+
+
+
+ 
+ 
+
+ 
